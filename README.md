@@ -2,7 +2,7 @@
 
 Quantifying and reducing Black-Scholes-Merton mispricing on real SPY options data, using polynomial regression and Random Forest to estimate the implied volatility surface.
 
-**[Read the full report (PDF)](Estimating_the_Implied_Volatility_Surface.pdf)**
+**[Read the full report (PDF)](report.pdf)**
 
 ## The problem
 
