@@ -35,7 +35,7 @@ Random Forest wins clearly on calls but only marginally on puts. Neither model d
 
 ![BSM mispricing](figures/bsmMispricingPct.png)
 
-*Baseline BSM percentage mispricing, the error the models reduce.*
+BSM absolute and percentage mispricing, the error the models reduce.*
 
 ## Data
 
