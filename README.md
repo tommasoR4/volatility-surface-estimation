@@ -37,6 +37,10 @@ Random Forest wins clearly on calls but only marginally on puts. Neither model d
 
 BSM absolute and percentage mispricing, the error the models reduce.*
 
+![Residual mispricing](figures/pricingErrorCall.png)
+
+*Residual mispricing for call options after re-pricing with the estimated IV.*
+
 ## Data
 
 - **Underlying:** SPDR S&P 500 ETF Trust (SPY), chosen for high liquidity and no idiosyncratic single-stock effects
